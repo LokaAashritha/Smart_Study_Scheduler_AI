@@ -123,10 +123,3 @@ Smart-Study-Scheduler-AI/
 - utils.py               
 - study_time_model.pkl
 
----
-
-Contact
-
-Student name : Loka Aashritha
-Email : lokamadhusudhan@gmail.com
-
